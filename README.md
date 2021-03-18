@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SidaZheng
-- 👀 I’m interested in Semantic Segmentation/Point Cloud/COD/Low-quality Image
+- 👀 I’m interested in Semantic Segmentation/Point Cloud/COD/Low-quality Image/Swarm Intelligence
 - 🌱 I’m currently learning PyTorch
 - 📫 zhengsida@tju.edu.cn
 
